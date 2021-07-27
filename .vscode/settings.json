@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 514,
+    "liveServer.settings.proxy": {
+        "enable": true
+    }
+}
